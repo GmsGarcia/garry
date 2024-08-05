@@ -16,11 +16,11 @@
 </p>
 
 ## Warning
-Currently this app stores all the data unencryped in a local file. It's not the safest method but it works for me right now... I might invest some time making this app safe later :P
+This app stores all the data unencryped in a local file.
 
 ## Description
 
-Garry is a CLI tool to hold your GitHub PAT's for you (or any other key-value information you want :P) 
+Garry is a CLI tool to store key-value pairs. 
 
 ## How To Use
 
