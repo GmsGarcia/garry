@@ -31,13 +31,13 @@ Create a symbolik link with the following command: `sudo ln -s /usr/local/bin/ga
 
 ### Commands
 
-`<command-prefix> get <PAT_NAME>` - copies the PAT key to the clipboard
+`<command-prefix> get <KEY>` - copies the value of key to the clipboard
 
-`<command-prefix> set <PAT_NAME> <PAT_VALUES>` - sets up a new PAT entry
+`<command-prefix> set <KEY> <VALUE>` - sets up a new key-value pair
 
-`<command-prefix> delete <PAT_NAME>` - copies the PAT key to the clipboard
+`<command-prefix> delete <KEY>` - deletes the key-value pair
 
-`<command-prefix> renew <PAT_NAME> <PAT_VALUE>` - renews a PAT key to the clipboard
+`<command-prefix> renew <KEY> <NEW-VALUE>` - updates the value of the key
 
 ---
 
